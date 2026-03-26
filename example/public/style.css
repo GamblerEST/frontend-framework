@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1, p {
+    font-family: "Poppins", sans-serif;
+}
+
+.card-img {
+    text-align: center;
+}
+
+.card {
+    width: 24em;
+}
+
+.container-fluid {
+    background-image: url('./images/skygradient.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
